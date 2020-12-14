@@ -36,3 +36,6 @@
 *.cbp
 *.depend
 *.layout
+
+# VSCode Settings files
+*/.vscode/settings.json
